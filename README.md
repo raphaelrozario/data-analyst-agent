@@ -61,6 +61,18 @@ This guarantees reliable SQL execution.
 
 ---
 
+## 🛠️ Tech Stack  
+
+- **Python**  
+- **Pandas**  
+- **Streamlit**  
+- **DuckDB**  
+- **Agno Agent Framework**  
+- **OpenAI / GPT backend**
+- **Docker**  
+
+---
+
 ## 📁 Project Structure
 ```
 data-analyst-agent/
